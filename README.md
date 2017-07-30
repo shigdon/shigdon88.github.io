@@ -1,2 +1,2 @@
-# smhigdon88.github.io
+# shigdon.github.io
 Homepage for SMH
